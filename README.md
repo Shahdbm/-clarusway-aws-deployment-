@@ -1,4 +1,3 @@
-Clarusway SDA Bootcamp Deployment Project
 Week-9 Assignment SDA2008-shahd
 
 AWS Web Application Deployment with ALB + ASG + S3
